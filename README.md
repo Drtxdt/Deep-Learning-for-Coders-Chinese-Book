@@ -51,7 +51,7 @@ cd Deep-Learning-for-Coders-Chinese-Book
 
 如果您发现了不妥之处，或者您也想为本项目做出贡献，请您提出Issue或者Fork本仓库之后进行Pull Request
 
-我将会写了一个术语表：`术语表.md` 供您参考
+我将会写一个术语表：`术语表.md` 供您参考
 
 另外，还请您遵循以下规范：
 
