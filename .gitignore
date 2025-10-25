@@ -1,2 +1,4 @@
 book.pdf
 code
+docs/.vitepress/dist
+docs/.vitepress/cache
