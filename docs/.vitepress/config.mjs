@@ -7,6 +7,11 @@ export default defineConfig({
   base: '/Deep-Learning-for-Coders-Chinese-Book/',
   lastUpdated: true,
 
+  markdown:{
+    lineNumbers: true,
+    math: true,
+  },
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -37,6 +42,7 @@ export default defineConfig({
           { text: '4. 幕后揭秘：训练数字分类器', link: '/p2c4' },
           { text: '5. 图像分类', link: '/p2c5' },
           { text: '6. 其他计算机视觉问题', link: '/p2c6' },
+          { text: '7. 训练一个最先进的模型', link: '/p2c7' },
         ]
       },
     ],
