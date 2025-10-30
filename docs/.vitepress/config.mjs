@@ -44,6 +44,7 @@ export default defineConfig({
           { text: '6. 其他计算机视觉问题', link: '/p2c6' },
           { text: '7. 训练一个最先进的模型', link: '/p2c7' },
           { text: '8. 深度解析协同过滤', link: '/p2c8' },
+          { text: '9. 深度解析表格建模', link: '/p2c9' },
         ]
       },
     ],
