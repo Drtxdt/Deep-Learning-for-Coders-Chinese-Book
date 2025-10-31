@@ -46,6 +46,7 @@ export default defineConfig({
           { text: '8. 深度解析协同过滤', link: '/p2c8' },
           { text: '9. 深度解析表格建模', link: '/p2c9' },
           { text: '10. 深度解析NLP：循环神经网络（RNNs）', link: '/p2c10' },
+          { text: '11. 使用 fastai 的中层 API 进行数据处理', link: '/p2c11' },
         ]
       },
     ],
