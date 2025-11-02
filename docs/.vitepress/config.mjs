@@ -49,6 +49,13 @@ export default defineConfig({
           { text: '11. 使用 fastai 的中层 API 进行数据处理', link: '/p2c11' },
         ]
       },
+
+      {
+        text: '第三部分：深度学习基础',
+        items:[
+          { text: '12. 从零开始构建语言模型', link: '/p3c12' },
+        ]
+      },
     ],
 
     outline: ['deep'],
