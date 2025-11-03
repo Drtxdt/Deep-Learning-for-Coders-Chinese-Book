@@ -54,6 +54,7 @@ export default defineConfig({
         text: '第三部分：深度学习基础',
         items:[
           { text: '12. 从零开始构建语言模型', link: '/p3c12' },
+          { text: '13. 卷积神经网络', link: '/p3c13' },
         ]
       },
     ],
