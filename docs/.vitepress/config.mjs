@@ -56,6 +56,7 @@ export default defineConfig({
           { text: '12. 从零开始构建语言模型', link: '/p3c12' },
           { text: '13. 卷积神经网络', link: '/p3c13' },
           { text: '14. ResNets（残差神经网络）', link: '/p3c14' },
+          { text: '15. 深度解析应用程序架构', link: '/p3c15' },
         ]
       },
     ],
