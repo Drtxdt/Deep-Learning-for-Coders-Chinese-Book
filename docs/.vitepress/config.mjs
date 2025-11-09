@@ -65,6 +65,7 @@ export default defineConfig({
         text: '第四部分：从零开始的深度学习',
         items:[
           { text: '17. 神经网络基础', link: '/p4c17' },
+          { text: '18. 利用 CAM 作为 CNN 的解释', link: '/p4c18' },
         ]
       },
     ],
