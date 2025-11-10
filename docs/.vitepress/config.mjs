@@ -70,6 +70,14 @@ export default defineConfig({
           { text: '20. 结语', link: '/p4c20' },
         ]
       },
+
+      {
+        text: '附录',
+        items:[
+          { text: 'A. 创建一个博客', link: '/A' },
+          { text: 'B. 数据项目检查清单', link: '/B' },
+        ]
+      },
     ],
 
     outline: ['deep'],
